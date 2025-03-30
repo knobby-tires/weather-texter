@@ -1,7 +1,7 @@
 
 # Weather Texter
 
-A simple, free daily weather notification service designed for dumbphones without a weather app. 
+A simple daily weather notification service designed for dumbphones. 
 
 This Go program fetches weather data from OpenWeatherMap and sends it as a text message through email-to-SMS gateways provided by mobile carriers. No apps or expensive SMS services required!
 
