@@ -1,0 +1,8 @@
+# Compiled binary
+weather-texter
+
+# Any config files with real credentials
+config.json
+
+# Go build and dependency files
+/vendor/
